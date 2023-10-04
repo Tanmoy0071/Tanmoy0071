@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmoy0071&label=Profile%20views&color=0e75b6&style=flat" alt="tanmoy0071" /> </p>
 
-- 🌱 I’m currently learning **Reactjs,Nodejs**
+- CTO and Co-founder @<a href = "https://ideatix.in">ideaTix</a>
 
-- 📫 How to reach me **tanmoychakraborty342@gmail.com**
+- 📫 How to reach me **tanmoy@ideatix.in**
 
 - ⚡ Fun fact **I'm a friendly guy 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/itz.trojan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz.trojan_" height="30" width="40" /></a>
+<a href="https://instagram.com/_.t4nmoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz.trojan_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
