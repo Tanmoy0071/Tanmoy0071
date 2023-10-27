@@ -1,23 +1,51 @@
-<h1 align="center">Hi 👋, I'm Tanmoy Chakraborty</h1>
-<h3 align="center">Just a grinder 💪</h3>
+## Hey Geeks
+It's Tanmoy Chakraborty Here, CTO & CO-FOUNDER Of ideaTix.
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+### About 🙋🏻‍♂️
+```python
+Name = "Tanmoy Chakraborty"
+Have_Skills = ['HTML','CSS', 'Javascript', 'PHP', 'MySQL']
+Company = "ideaTix"
+Position = "CTO & CO-FOUNDER"
+```
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmoy0071&label=Profile%20views&color=0e75b6&style=flat" alt="tanmoy0071" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=:%20Web%20Developer;%20CO-FOUNDER%20Of%20ideaTix)](https://git.io/typing-svg)
 
-- CTO and Co-founder @<a href = "https://ideatix.in">ideaTix</a>
-
-- 📫 How to reach me **tanmoy@ideatix.in**
-
-- ⚡ Fun fact **I'm a friendly guy 😁**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/_.t4nmoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.t4nmoy" height="30" width="40" /></a>
+### Available 👇
+<p>
+  <a href="https://www.instagram.com/_.t4nmoy">
+    <img align="left" alt="Tanmoy chakraborty Instagram" width="34px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" />
+  </a>
+  
+  <a href="https://ideatix.in">
+    <img align="left" alt="ideaTix" width="34px" src="https://ideatix.in/assets/images/general/favicon.png" />
+  </a>
+  <a href="https://www.linkedin.com/in/tanmoy-chakraborty-11655328b/">
+    <img align="left" alt="Tanmoy chakraborty LinkedIn" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
+  </a>
+  
 </p>
+</br>
+</br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/54ndeepV3rma/&title=Profile%20Views)
+
+
+
+
+### Skills 👨‍💻
+
+<img align="left" alt="HTML" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+<img align="left" alt="CSS" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
+<img align="left" alt="JavaScript" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="PHP" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+<img align="left" alt="MySQL" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="Linux" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+</br>
+</br>
+
+
 
 
 
