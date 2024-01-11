@@ -4,7 +4,7 @@ It's Tanmoy Chakraborty Here, CTO & CO-FOUNDER Of ideaTix.
 ### About 🙋🏻‍♂️
 ```python
 Name = "Tanmoy Chakraborty"
-Have_Skills = ['HTML','CSS', 'Javascript', 'PHP', 'MySQL']
+Have_Skills = ['HTML', 'CSS', 'Javascript', 'GSAP', 'PHP', 'MySQL']
 Company = "ideaTix"
 Position = "CTO & CO-FOUNDER"
 ```
@@ -39,6 +39,7 @@ Position = "CTO & CO-FOUNDER"
 <img align="left" alt="HTML" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="CSS" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
 <img align="left" alt="JavaScript" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="greensock" width="34px" src="https://seeklogo.com/images/G/greensock-gsap-icon-logo-13BB451E88-seeklogo.com.png" />
 <img align="left" alt="PHP" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
 <img align="left" alt="MySQL" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="Linux" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
