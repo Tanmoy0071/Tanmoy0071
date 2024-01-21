@@ -4,7 +4,7 @@ It's Tanmoy Chakraborty Here, CTO & CO-FOUNDER Of ideaTix.
 ### About 🙋🏻‍♂️
 ```python
 Name = "Tanmoy Chakraborty"
-Have_Skills = ['HTML', 'CSS', 'Javascript', 'GSAP', 'PHP', 'MySQL']
+Have_Skills = ['HTML', 'CSS', 'Javascript', 'GSAP', 'Nodejs', 'Expressjs', 'MongoDB', 'PHP', 'MySQL']
 Company = "ideaTix"
 Position = "CTO & CO-FOUNDER"
 ```
